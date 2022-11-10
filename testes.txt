@@ -1,0 +1,578 @@
+*-------------[ Listagem Clientes ]---------------*
+[1947853622] AdrianTurbina
+*------------------------------------*
+Cliente cadastrado com sucesso.
+*-------------[ Listagem Clientes ]---------------*
+[1947853622] AdrianTurbina
+[1947853621] Zezinho
+*------------------------------------*
+Cliente cadastrado com sucesso.
+Anuncio cadastrado com sucesso
+Anuncio cadastrado com sucesso
+Anuncio cadastrado com sucesso
+Anuncio cadastrado com sucesso
+Anuncio cadastrado com sucesso
+*----------Menu inicial----------*
+| Atendente ou cliente?          |
+| 1) Atendente                   |
+| 2) Cliente                     |
+| 0) Sair                        |
+*--------------------------------*
+1
+Digite a senha para acessar como atendente: 
+admin
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+1
+Digite o nome do cliente: 
+bruno
+Digite o cpf do cliente: 
+12345678910
+Digite a data de nascimento do cliente: (dd/MM/AAAA
+25/06/1998
+Digite o telefone do cliente: 
+(19)995688664
+Digite o email do cliente: 
+bruno@email.com
+Digite seu e-mail: 
+bruno2email.com
+Digite sua senha: 
+senhabruno
+*-------------[ Listagem Clientes ]---------------*
+[1947853622] AdrianTurbina
+[1947853621] Zezinho
+[12345678910] bruno
+*------------------------------------*
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+2
+Digite o nome do produto: 
+Sapatenis
+Digite o preço: 
+60,0
+Digite a qtde: 
+15
+Digite o tamanho: 
+42
+tamanho: 2
+Código: [9] 	 Nome: tenis
+Código: [10] 	 Nome: acessorios
+Digite o código da categoria: 
+9
+Digite o codigo Sku do produto: 
+456
+Produto cadastrado com sucesso.
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+5
+*-------------[DO9392-200]---------------*
+|  Nome: Air Max 1 x Cactus Jack	|
+|  Preco: 1099,00	|
+|  Quantidade: 41	|
+|  Tamanho: 41	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO4532-103]---------------*
+|  Nome: Air Max 2 x Monkey Eminem	|
+|  Preco: 500,00	|
+|  Quantidade: 9	|
+|  Tamanho: 43	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO5277-004]---------------*
+|  Nome: All Star Clássico	|
+|  Preco: 150,00	|
+|  Quantidade: 9	|
+|  Tamanho: 39	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO8364-311]---------------*
+|  Nome: Adidas Predator Ai Messi	|
+|  Preco: 200,00	|
+|  Quantidade: 5	|
+|  Tamanho: 38	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO9925-768]---------------*
+|  Nome: Nike Mercurial	|
+|  Preco: 340,00	|
+|  Quantidade: 10	|
+|  Tamanho: 8	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+Insira o codigo sku do produto: 
+45612345678910
+Anuncio cadastrado com sucesso
+Digite o CPF do cliente: 
+
+12345678910
+O carrinho esta vazio
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+4
+Digite o nome do marketplace: 
+Mercadinho
+*-------------[ Listagem Anuncios ]---------------*
+============DO9392-200============
+NOME:Air Max 1 x Cactus Jack
+PRECO:1099.0
+QTDE:41
+TAMANHO:41
+STATUS:1
+====================================
+
+Status: 1
+Qtd disponivel: 41
+QTd Vendida: 0
+============DO4532-103============
+NOME:Air Max 2 x Monkey Eminem
+PRECO:500.0
+QTDE:9
+TAMANHO:43
+STATUS:1
+====================================
+
+Status: 1
+Qtd disponivel: 9
+QTd Vendida: 0
+============DO5277-004============
+NOME:All Star Clássico
+PRECO:150.0
+QTDE:9
+TAMANHO:39
+STATUS:1
+====================================
+
+Status: 1
+Qtd disponivel: 9
+QTd Vendida: 0
+============DO8364-311============
+NOME:Adidas Predator Ai Messi
+PRECO:200.0
+QTDE:5
+TAMANHO:38
+STATUS:1
+====================================
+
+Status: 1
+Qtd disponivel: 5
+QTd Vendida: 0
+============DO9925-768============
+NOME:Nike Mercurial
+PRECO:340.0
+QTDE:10
+TAMANHO:8
+STATUS:1
+====================================
+
+Status: 1
+Qtd disponivel: 10
+QTd Vendida: 0
+*-------------[DO9392-200]---------------*
+|  Nome: Air Max 1 x Cactus Jack	|
+|  Preco: 1099,00	|
+|  Quantidade: 41	|
+|  Tamanho: 41	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO4532-103]---------------*
+|  Nome: Air Max 2 x Monkey Eminem	|
+|  Preco: 500,00	|
+|  Quantidade: 9	|
+|  Tamanho: 43	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO5277-004]---------------*
+|  Nome: All Star Clássico	|
+|  Preco: 150,00	|
+|  Quantidade: 9	|
+|  Tamanho: 39	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO8364-311]---------------*
+|  Nome: Adidas Predator Ai Messi	|
+|  Preco: 200,00	|
+|  Quantidade: 5	|
+|  Tamanho: 38	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO9925-768]---------------*
+|  Nome: Nike Mercurial	|
+|  Preco: 340,00	|
+|  Quantidade: 10	|
+|  Tamanho: 8	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+Insira o codigo sku do produto: 
+456
+Anuncio cadastrado com sucesso
+Marketplace cadastrado com sucesso.
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+7
+Digite o cpf do cliente: 
+12345678910
+============12345678910============
+NOME:bruno
+DATA:25/06/1998
+TEL:(19)995688664
+EMAIL:bruno2email.com
+====================================
+
+*-------------[DO9392-200]---------------*
+|  Nome: Air Max 1 x Cactus Jack	|
+|  Preco: 1099,00	|
+|  Quantidade: 41	|
+|  Tamanho: 41	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO4532-103]---------------*
+|  Nome: Air Max 2 x Monkey Eminem	|
+|  Preco: 500,00	|
+|  Quantidade: 9	|
+|  Tamanho: 43	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO5277-004]---------------*
+|  Nome: All Star Clássico	|
+|  Preco: 150,00	|
+|  Quantidade: 9	|
+|  Tamanho: 39	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO8364-311]---------------*
+|  Nome: Adidas Predator Ai Messi	|
+|  Preco: 200,00	|
+|  Quantidade: 5	|
+|  Tamanho: 38	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO9925-768]---------------*
+|  Nome: Nike Mercurial	|
+|  Preco: 340,00	|
+|  Quantidade: 10	|
+|  Tamanho: 8	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 15	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+Deseja adicionar um item ao carrinho?
+0 = Não
+1 = Sim
+1
+
+Digite o SKU do produto a ser adicionado ao carrinho: 
+456
+============456============
+NOME:Sapatenis
+PRECO:60.0
+QTDE:15
+TAMANHO:42
+STATUS:1
+====================================
+
+Digite a quantidade que deseja adicionar ao carrinho: 
+2
+Item adicionado com sucesso ao carrinho.
+Deseja adicionar um item ao carrinho?
+0 = Não
+1 = Sim
+1
+
+Digite o SKU do produto a ser adicionado ao carrinho: 
+DO9925-768
+============DO9925-768============
+NOME:Nike Mercurial
+PRECO:340.0
+QTDE:10
+TAMANHO:8
+STATUS:1
+====================================
+
+Digite a quantidade que deseja adicionar ao carrinho: 
+1
+Item adicionado com sucesso ao carrinho.
+Deseja adicionar um item ao carrinho?
+0 = Não
+1 = Sim
+0
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+6
+Digite o CPF do cliente: 
+12345678910
+Digite a forma de pagamento (0 - CARTAO / 1 - DINHEIRO): 
+0
+Digite o numero do cartao:
+555777666
+Digite o nome impresso no cartao:
+BrunoSousa
+Digite a data de validade:
+12/2028
+Digite o codigo de seguranca (CVV):
+944
+Digite a quantidade de parcelas:
+1
+Digite a data da venda: 
+10/11/2022
+Baixa estoque: [10] -> [10 - 1 = 9]Baixa estoque: [15] -> [15 - 2 = 13]Baixa estoque: [13] -> [13 - 2 = 11]Venda cadastrada com sucesso.
+Digite o cpf do cliente: 
+12345678910
+============12345678910============
+NOME:bruno
+DATA:25/06/1998
+TEL:(19)995688664
+EMAIL:bruno2email.com
+====================================
+
+*-------------[DO9392-200]---------------*
+|  Nome: Air Max 1 x Cactus Jack	|
+|  Preco: 1099,00	|
+|  Quantidade: 41	|
+|  Tamanho: 41	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO4532-103]---------------*
+|  Nome: Air Max 2 x Monkey Eminem	|
+|  Preco: 500,00	|
+|  Quantidade: 9	|
+|  Tamanho: 43	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO5277-004]---------------*
+|  Nome: All Star Clássico	|
+|  Preco: 150,00	|
+|  Quantidade: 9	|
+|  Tamanho: 39	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO8364-311]---------------*
+|  Nome: Adidas Predator Ai Messi	|
+|  Preco: 200,00	|
+|  Quantidade: 5	|
+|  Tamanho: 38	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[DO9925-768]---------------*
+|  Nome: Nike Mercurial	|
+|  Preco: 340,00	|
+|  Quantidade: 9	|
+|  Tamanho: 8	|
+|  Status: 1	|
+|  Categoria:nike	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 11	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+*-------------[456]---------------*
+|  Nome: Sapatenis	|
+|  Preco: 60,00	|
+|  Quantidade: 11	|
+|  Tamanho: 42	|
+|  Status: 1	|
+|  Categoria:tenis	
+|*------------------------------------*
+
+Deseja adicionar um item ao carrinho?
+0 = Não
+1 = Sim
+0
+*-------------Menu---------------*
+| Digite uma das opções abaixo:  |
+| 1) Cadastrar Cliente           |
+| 2) Cadastrar Produto           |
+| 3) Cadastrar Categoria         |
+| 4) Cadastrar Marketplace       |
+| 5) Cadastrar Anuncio           |
+| 6) Fechar a compra             |
+| 7) Adicionar ao Carrinho       |
+| 8) Visualizar Produtos         |
+| 9) Visualizar Categorias       |
+| 10) Visualizar Carrinho        |
+| 11) Visualizar Anuncios        |
+| 12) Visualizar Vendas          |
+| 0) Sair                        |
+*--------------------------------*
+0
+Process finished with exit code 130
